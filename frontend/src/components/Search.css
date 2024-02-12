@@ -1,0 +1,36 @@
+.search-container {
+  width: 100%;
+  background: url("https://img.freepik.com/premium-photo/fast-food-burgers-with-fries-cola-black-chalkboard_220925-8245.jpg?w=900");
+  height: 180px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.search-container input {
+  width: 30%;
+  height: 25%;
+  padding: 10px;
+  border-radius: 7px;
+  border: none;
+  outline: none;
+  font-size: 17px;
+}
+.search-container input:focus {
+  border: 1px solid black;
+}
+.search-btn {
+  background-color: rgb(47, 211, 47);
+  padding: 10px;
+  border-radius: 8px;
+  margin-left: 15px;
+  color: black;
+  height: 43px;
+  border: 1px solid black;
+  font-weight: bold;
+  cursor: pointer;
+  width: 80px;
+}
+.search-btn:hover {
+  background-color: black;
+  color: white;
+}

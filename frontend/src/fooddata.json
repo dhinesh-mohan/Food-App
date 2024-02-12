@@ -1,0 +1,74 @@
+[
+  {
+    "categoryname": "Biriyani/Rice",
+    "name": "Chicken fried rice",
+    "img": "https://img.freepik.com/free-photo/side-view-rice-garnish-with-fried-onion-carrot-greens-chili-pepper-table_141793-5069.jpg?w=996&t=st=1707200558~exp=1707201158~hmac=8dcda8217fbfae01ff364dbf7c34f94ed80bb6222d17bad329d43ab250f9b098",
+    "options": [
+      {
+        "half": "130",
+        "full": "220"
+      }
+    ],
+    "description": "Chicken fried rice is a flavorful dish made by stir-frying cooked rice with diced chicken, vegetables, and seasonings like soy sauce and garlic. It's a popular choice in Asian cuisine, offering a delicious blend of protein, carbohydrates, and savory flavors in every bite."
+  },
+  {
+    "categoryname": "Biriyani/Rice",
+    "name": "veg fried rice",
+    "img": "https://img.freepik.com/free-photo/steamed-rice-with-seafood-calamary-corns-carrot-peas-side-view_141793-3564.jpg?w=996&t=st=1707200745~exp=1707201345~hmac=d09e4167cec3b23fd3256e0cc395ecc826ad43ea2fbd9549787fdc3a2d70af8a",
+    "options": [
+      {
+        "half": "110",
+        "full": "220"
+      }
+    ],
+    "description": "Veg fried rice is a flavorful dish made by stir-frying cooked rice with diced chicken, vegetables, and seasonings like soy sauce and garlic. It's a popular choice in Asian cuisine, offering a delicious blend of protein, carbohydrates, and savory flavors in every bite."
+  },
+  {
+    "categoryname": "Biriyani/Rice",
+    "name": "Fish Biriyani",
+    "img": "https://img.freepik.com/free-photo/side-view-pilaf-with-stewed-beef-meat-plate_141793-5057.jpg?w=996&t=st=1707200840~exp=1707201440~hmac=71bb6685821c0c63d1ce1d7a3484b66308fe8ce002cadec70c0df69b98a52886",
+    "options": [
+      {
+        "half": "200",
+        "full": "300"
+      }
+    ],
+    "description": "Fish Biriyani is a flavorful dish made by stir-frying cooked rice with diced chicken, vegetables, and seasonings like soy sauce and garlic. It's a popular choice in Asian cuisine, offering a delicious blend of protein, carbohydrates, and savory flavors in every bite."
+  },
+  {
+    "categoryname": "Biriyani/Rice",
+    "name": "Chicken Biriyani",
+    "img": "https://img.freepik.com/free-photo/high-angle-pakistan-meal-composition_23-2148821517.jpg?w=996&t=st=1707200905~exp=1707201505~hmac=6e0d371cb160c74babe2d89ae94428e1d35db533c02b34f4ac16022fac7cec09",
+    "options": [
+      {
+        "half": "170",
+        "full": "300"
+      }
+    ],
+    "description": "Chicken Biriyani is a flavorful dish made by stir-frying cooked rice with diced chicken, vegetables, and seasonings like soy sauce and garlic. It's a popular choice in Asian cuisine, offering a delicious blend of protein, carbohydrates, and savory flavors in every bite."
+  },
+  {
+    "categoryname": "Biriyani/Rice",
+    "name": "Prawns fried rice",
+    "img": "https://img.freepik.com/free-photo/closeup-spicy-cooked-rice-with-meat-shrimp-vegetables-plate_181624-46713.jpg?w=996&t=st=1707200977~exp=1707201577~hmac=2b9ecf0fe7cb96fa4e90c459541824d4ba515f89d02a42fa5929f95a35a29dbd",
+    "options": [
+      {
+        "half": "170",
+        "full": "300"
+      }
+    ],
+    "description": "Prawn fried rice is a flavorful dish made by stir-frying cooked rice with diced chicken, vegetables, and seasonings like soy sauce and garlic. It's a popular choice in Asian cuisine, offering a delicious blend of protein, carbohydrates, and savory flavors in every bite."
+  },
+  {
+    "categoryname": "Pizza",
+    "name": "Veg Pizza",
+    "img": "https://img.freepik.com/free-photo/pizza-pizza-filled-with-tomatoes-salami-olives_140725-1200.jpg?w=740&t=st=1707201044~exp=1707201644~hmac=9f48a4e3e84bea947b94aa60bade6770c3080e762bbac47efb90522ab74e4199",
+    "options": [
+      {
+        "half": "170",
+        "full": "300"
+      }
+    ],
+    "description": "Veg Pizza is a flavorful dish made by stir-frying cooked rice with diced chicken, vegetables, and seasonings like soy sauce and garlic. It's a popular choice in Asian cuisine, offering a delicious blend of protein, carbohydrates, and savory flavors in every bite."
+  }
+]
